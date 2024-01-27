@@ -1,7 +1,7 @@
 # 📒App Result⛳
 ![2024-01-21 00_35_03-65 0 45 129_3000](https://github.com/Fir3eye/1-Node.js/assets/93431222/efd3ef0f-1c8f-409e-a48e-f1dd7eaa1658)
 # 🎡Setup Locally 🎯
-## 🥏Clone the Code 
+## 🥏Clone the Code part
 ```
 git clone https://github.com/Fir3eye/1-Node.js.git
 ```
